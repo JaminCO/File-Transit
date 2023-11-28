@@ -1,5 +1,5 @@
 # File-Transit
-File transit is a software that makes the transfering of files easier and very fast.
+File transit is a software that makes the transfer of files from laptop to desktop easier and very fast.
 
 features
 1. ...
